@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="95e99cb17e71b89c4dffdb83687ac7ba0592837a">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c97d7d93b386dabeada0c4ad80a29cdf0bac97c\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_e4136cc37af0021390d35a678aae5c6bcdf81704\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_30591dc37617bc831636e522f76d668d6b228fd8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_f8fdd0d339c5aedcce62f0ac8651e7fbed5f2e7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_80fee53ec603972827b171edd4e72cfad2bb8022\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="992af5b1362e3c16286172144f619f570fef1e61">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_06cb71137de01b202cc7c4b49fe11733854b8a5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_c7b703f06db94e0712a5cb5cf70ab14c80edf43f\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\AndroidDev\Proyectos\Marcianito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_68e688c76412b617d34632e1d0e8b71ee2ff3b56\classes.dex" />
+    </item>
+
+</items>
